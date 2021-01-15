@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm [Vinh](https://vinhnguyen.ca) 🌺
 
-<!--
-**vinhvn/vinhvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website Badge](https://img.shields.io/badge/-vinhnguyen.ca-EF444F?style=flat&logo=firefox-browser&logoColor=white&link=https://vinhnguyen.ca)](https://vinhnguyen.ca)
+[![Linkedin Badge](https://img.shields.io/badge/-vinhvn-EF444F?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinhvn/)](https://www.linkedin.com/in/vinhvn/)
+[![Gmail Badge](https://img.shields.io/badge/-resume.pdf-EF444F?style=flat&logo=pinboard&logoColor=white&link=https://vinhnguyen.ca/resume_2021.pdf)](https://vinhnguyen.ca/resume_2021.pdf)
+[![Gmail Badge](https://img.shields.io/badge/-vinhh.nguyen@carleton.ca-EF444F?style=flat&logo=Gmail&logoColor=white&link=mailto:vinhh.nguyen@carleton.ca)](mailto:vinhh.nguyen@carleton.ca)
 
-Here are some ideas to get you started:
+## Welcome to my Profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student and software developer with a passion for design and *beautiful* websites!
+
+## I'm currently...
+
+- 💻 Completing an internship [@creativelayer](https://creativelayer.com) where I'm a frontend web developer
+- 📖 A third year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
+- ✏️ Designing websites, apps, and games
+- 🔧 Practicing Vue 3 and TypeScript
+- 🎸 Jamming on my electric bass
