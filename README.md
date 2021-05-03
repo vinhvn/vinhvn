@@ -11,8 +11,8 @@ I'm a student and software developer with a passion for design and *beautiful* w
 
 ## I'm currently...
 
-- 💻 Completing an internship [@creativelayer](https://creativelayer.com) where I'm a frontend web developer
-- 📖 A third year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
+- 💻 Completing an internship [@kinaxis](https://kinaxis.com) where I'm a frontend test developer
+- 📖 A fourth year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
 - ✏️ Designing websites, apps, and games
-- 🔧 Practicing Vue 3 and TypeScript
+- 🔧 Practicing C# and Unity
 - 🎸 Jamming on my electric bass
