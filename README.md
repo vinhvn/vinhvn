@@ -26,7 +26,11 @@ I'm currently...
 
 ### 🍽️ ServeU
 
-In progress... and coming soon 🤫
+<img src="https://s.vincentnguyen.ca/SpinuloseRightAustraliansilkyterrier.png" alt="ServeU" width="640px">
+
+> [ServeU](https://github.com/vinhvn/serve-u) is a private asset repository for authorized users to upload, store, and share files with colleagues, friends, and family!
+
+I worked on this project to fulfill a need I had for an easy-to-use and private repository where I could quickly upload and share files with coworkers and friends. In the process, I learned a lot about the full stack application building process, dealing with CORS and server setup, and adding authorization and security to a web app.
 
 ### 🐻 Randimals
 
