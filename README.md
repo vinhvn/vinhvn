@@ -24,6 +24,10 @@ I'm currently...
 
 ## My Latest Projects
 
+### 🪀 arcadea play
+
+Coming soon... 🤫
+
 ### 🍽️ ServeU
 
 <img src="https://s.vincentnguyen.ca/SpinuloseRightAustraliansilkyterrier.png" alt="ServeU" width="640px">
