@@ -52,6 +52,10 @@ I worked on this project because I had the need for a random ID generator but I 
 
 I worked on this project to build and design a web game amongst a small team, refamiliarizing myself with React and TypeScript. I designed the entire frontend UI / UX for this project in Figma and led the front-facing client development. In the process, I was able to try a different system design for a React app and teach TypeScript to my team.
 
+### ...and much more!
+
+Take a look through my GitHub for older projects!
+
 ## Contact Me
 
 You can reach me on...
