@@ -1,9 +1,9 @@
 # Hi, I'm [Vincent](https://vincentnguyen.ca) 🌺
 
-[![Website Badge](https://img.shields.io/badge/-vincentnguyen.ca-EF444F?style=flat&logo=google-chrome&logoColor=white&link=https://vincentnguyen.ca)](https://vincentnguyen.ca)
+[![Website Badge](https://img.shields.io/badge/-vinhvn.com-EF444F?style=flat&logo=google-chrome&logoColor=white&link=https://vinhvn.com)](https://vinhvn.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vinhvn-EF444F?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinhvn/)](https://www.linkedin.com/in/vinhvn/)
-[![Gmail Badge](https://img.shields.io/badge/-resume.pdf-EF444F?style=flat&logo=pinboard&logoColor=white&link=https://vincentnguyen.ca/resume_2021.pdf)](https://vincentnguyen.ca/resume_2021.pdf)
-[![Gmail Badge](https://img.shields.io/badge/-vinhh.nguyen@carleton.ca-EF444F?style=flat&logo=Gmail&logoColor=white&link=mailto:vinhh.nguyen@carleton.ca)](mailto:vinhh.nguyen@carleton.ca)
+[![Gmail Badge](https://img.shields.io/badge/-resume.pdf-EF444F?style=flat&logo=pinboard&logoColor=white&link=https://drive.google.com/file/d/1UjTZzVhJoTKityUbo9Qd7Kx0Ezt6UDkt/view)](https://drive.google.com/file/d/1UjTZzVhJoTKityUbo9Qd7Kx0Ezt6UDkt/view)
+[![Gmail Badge](https://img.shields.io/badge/-vincentn337@gmail.com-EF444F?style=flat&logo=Gmail&logoColor=white&link=mailto:vincentn337@gmail.com)](mailto:vincentn337@gmail.com)
 
 ## Welcome to my Profile!
 
