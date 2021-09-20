@@ -1,4 +1,4 @@
-# Hi, I'm [Vincent](https://vincentnguyen.ca) 🌺
+# Hi, I'm [Vincent](https://vinhvn.com) 🌺
 
 [![Website Badge](https://img.shields.io/badge/-vinhvn.com-EF444F?style=flat&logo=google-chrome&logoColor=white&link=https://vinhvn.com)](https://vinhvn.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vinhvn-EF444F?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinhvn/)](https://www.linkedin.com/in/vinhvn/)
