@@ -17,7 +17,7 @@ Feel free to [reach out](#contact-me) and let's have a chat!
 
 I'm currently...
 
-- 💻 Completing an internship [@kinaxis](https://kinaxis.com) where I'm a frontend developer
+- 💻 Working part-time @selenanailsandspa where I am a full-stack developer
 - 📖 A fourth year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
 - ✏️ Designing experiences, user interfaces, and beautiful applications
 - ☕ Drinking coffee and collaborating in hackathons
