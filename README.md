@@ -17,8 +17,8 @@ Feel free to [reach out](#contact-me) and let's have a chat!
 
 I'm currently...
 
-- 💻 Working part-time @selenanailsandspa where I am a full-stack developer
-- 📖 A fourth year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
+- 💻 An incoming intern [@amazon](https://amazon.ca/) and [@magical](https://www.getmagical.com/) for Summer and Fall of 2022!
+- 📖 A 4th year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
 - ✏️ Designing experiences, user interfaces, and beautiful applications
 - ☕ Drinking coffee and collaborating in hackathons
 - 🎸 Jamming on my electric guitar and bass
