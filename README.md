@@ -1,8 +1,6 @@
-# Hi, I'm [Vincent](https://vinhvn.com) 🌺
+# Hi, I'm Vincent 🌺
 
-[![Website Badge](https://img.shields.io/badge/-vinhvn.com-EF444F?style=flat&logo=google-chrome&logoColor=white&link=https://vinhvn.com)](https://vinhvn.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vinhvn-EF444F?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinhvn/)](https://www.linkedin.com/in/vinhvn/)
-[![Resume Badge](https://img.shields.io/badge/-resume.pdf-EF444F?style=flat&logo=pinboard&logoColor=white&link=https://vinhvn.com/r.pdf)](https://vinhvn.com/r.pdf)
 [![Gmail Badge](https://img.shields.io/badge/-vincentn337@gmail.com-EF444F?style=flat&logo=Gmail&logoColor=white&link=mailto:vincentn337@gmail.com)](mailto:vincentn337@gmail.com)
 
 ## Welcome to my Profile!
@@ -15,14 +13,14 @@ Feel free to [reach out](#contact-me) and let's have a chat!
 
 ## What am I up to?
 
-I'm currently...
+I'm...
 
-- 💻 An incoming intern [@amazon](https://amazon.ca/) and [@magical](https://www.getmagical.com/) for Summer and Fall of 2022!
-- 📖 A 4th year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
+- 💻 previously an intern [@amazon](https://amazon.ca/), [@magical](https://www.getmagical.com/), and [@creativelayer](https://creativelayer.com)
+- 📖 A 5th year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
 - ✏️ Designing experiences, user interfaces, and beautiful applications
-- ☕ Drinking coffee and collaborating in hackathons
+- ☕ Drinking coffee and tea, collaborating on cool projects
 - 🎸 Jamming on my electric guitar and bass
-- 📺 Watching fantastic animated shows like JoJo's Bizarre Adventure and Amphibia
+- 📺 Obsessing over The Last of Us and Westworld
 
 ## Contact Me
 
